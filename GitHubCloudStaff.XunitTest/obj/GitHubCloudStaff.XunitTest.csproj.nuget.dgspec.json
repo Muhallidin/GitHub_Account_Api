@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.XunitTest\\GitHubCloudStaff.XunitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Api\\GitHubCloudStaff.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Api\\GitHubCloudStaff.Api.csproj",
+        "projectName": "GitHubCloudStaff.Api",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Api\\GitHubCloudStaff.Api.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Infrastructure\\GitHubCloudStaff.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Infrastructure\\GitHubCloudStaff.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj",
+        "projectName": "GitHubCloudStaff.Application",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Domain\\GitHubCloudStaff.Domain.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Domain\\GitHubCloudStaff.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Domain\\GitHubCloudStaff.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Domain\\GitHubCloudStaff.Domain.csproj",
+        "projectName": "GitHubCloudStaff.Domain",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Domain\\GitHubCloudStaff.Domain.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Infrastructure\\GitHubCloudStaff.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Infrastructure\\GitHubCloudStaff.Infrastructure.csproj",
+        "projectName": "GitHubCloudStaff.Infrastructure",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Infrastructure\\GitHubCloudStaff.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.XunitTest\\GitHubCloudStaff.XunitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.XunitTest\\GitHubCloudStaff.XunitTest.csproj",
+        "projectName": "GitHubCloudStaff.XunitTest",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.XunitTest\\GitHubCloudStaff.XunitTest.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.XunitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Api\\GitHubCloudStaff.Api.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Api\\GitHubCloudStaff.Api.csproj"
+              },
+              "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\Cloud Staff\\GitHub_CloudStaff_Solution\\GitHubCloudStaff.Application\\GitHubCloudStaff.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "System.Reflection.TypeExtensions": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "structuremap": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

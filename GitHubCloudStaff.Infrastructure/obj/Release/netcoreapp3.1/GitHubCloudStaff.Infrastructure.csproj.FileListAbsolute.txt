@@ -1,0 +1,14 @@
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.deps.json
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.dll
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.pdb
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Application.dll
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Domain.dll
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Application.pdb
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\bin\Release\netcoreapp3.1\GitHubCloudStaff.Domain.pdb
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.csprojAssemblyReference.cache
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.AssemblyInfo.cs
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.csproj.CopyComplete
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.dll
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Infrastructure\obj\Release\netcoreapp3.1\GitHubCloudStaff.Infrastructure.pdb

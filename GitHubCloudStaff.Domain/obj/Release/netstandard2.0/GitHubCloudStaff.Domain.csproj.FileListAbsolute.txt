@@ -1,0 +1,9 @@
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\bin\Release\netstandard2.0\GitHubCloudStaff.Domain.deps.json
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\bin\Release\netstandard2.0\GitHubCloudStaff.Domain.dll
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\bin\Release\netstandard2.0\GitHubCloudStaff.Domain.pdb
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\obj\Release\netstandard2.0\GitHubCloudStaff.Domain.csprojAssemblyReference.cache
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\obj\Release\netstandard2.0\GitHubCloudStaff.Domain.AssemblyInfoInputs.cache
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\obj\Release\netstandard2.0\GitHubCloudStaff.Domain.AssemblyInfo.cs
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\obj\Release\netstandard2.0\GitHubCloudStaff.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\obj\Release\netstandard2.0\GitHubCloudStaff.Domain.dll
+C:\Users\MUDZRAINA\Desktop\Cloud Staff\GitHub_CloudStaff_Solution\GitHubCloudStaff.Domain\obj\Release\netstandard2.0\GitHubCloudStaff.Domain.pdb
